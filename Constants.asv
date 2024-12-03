@@ -1,6 +1,6 @@
 function C = constants
 	C.M0 = 2; % Cruise Mach Number
 	C.Alt = 14000; % Cruise Alt, Meters
-	C.
+	C.xxx
 
 end
